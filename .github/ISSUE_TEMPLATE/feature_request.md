@@ -10,9 +10,9 @@ assignees: ''
 Please pick one of the following WeatherXM elements that are applicable for this suggestion:
 - Website
 - Android Application
-- Web Dashboard
-- M5 Firmware
-- Weather Station
+- iOS Application
+- Web App
+- Hardware
 
 ### **Is your feature request related to a problem? Please describe.**
 A clear and concise description of what the requested feature is.
