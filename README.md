@@ -1,9 +1,6 @@
-# WeatherXM Issue Tracker
+# DEPRECATED
+This issue tracker is now officially deprecated and isn't used anymore by the WeatherXM team. 
 
-This repository will serve as our public Issue Tracker for WeatherXM beta testers and for everyone who wants
-to contribute by reporting a bug, suggesting or just following our development progress.
+For bug reporting or suggestions for new features please head to our open-source apps, [Android](https://github.com/WeatherXM/wxm-android) and [iOS](https://github.com/WeatherXM/wxm-ios).
 
-## How to contribute?
-
-In order to contribute, you should follow the [contributing guideline](/CONTRIBUTING.md) 
-and [open a new issue](https://github.com/WeatherXM/issue-tracker/issues) based on these guidelines.
+Thank you for your continuous support!
